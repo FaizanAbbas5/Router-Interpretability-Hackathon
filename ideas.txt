@@ -1,0 +1,5 @@
+(proposed by Dorotheya): **A Cross-Cultural Judge for Ethics & Bias**
+    Most LLMs are trained heavily on English and Western value - Building better judges helps ensure that LLMs can serve non-English users fairly and respectfully.
+    Since all 4 of us are non-native speakers, this idea is paritcularly relevant and interesting to work on
+
+An alternative can be working on Gender Bias

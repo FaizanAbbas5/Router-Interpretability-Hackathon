@@ -1,5 +1,16 @@
-(proposed by Dorotheya): **A Cross-Cultural Judge for Ethics & Bias**
-    Most LLMs are trained heavily on English and Western value - Building better judges helps ensure that LLMs can serve non-English users fairly and respectfully.
-    Since all 4 of us are non-native speakers, this idea is paritcularly relevant and interesting to work on
+**A Cross-Cultural Judge for Ethics & Bias** (Initially proposed by Doro)
+    Most LLMs are trained heavily on English and Western values - Building better judges helps ensure that LLMs can serve non-English users fairly and respectfully.
+    Since all 4 of us are non-native speakers, this idea is particularly relevant and interesting to work on
+
+Extending on the Language Bias idea, We can evaluate the performance of LLM(s) using the following cases:
+    - Giving textual math problems in different languages (e.g We are 4 members. 2 members leave the group and 1 new member joins. How many members does the group have now? Questions like these can be provided in multiple languages to evaluate model's performance)
+    - Asking traditional/cultural questions from the model in different languages (e.g a question about US culture in English, Chinese culture in Mandarin, Mexican culture in Spanish etc)
+    - Mixed language prompts where people mix English with their local languages (e.g Half sentence in Urdu, half in English). Evaluate if model understands differnet mixed language prompts.
+    - Idioms from different languages
+    - Logical reasoning evaluation: Using conditional statements like if it rains, then I will stay at home... in different languages
+    - Formal vs Informal language evaluation in different languages (model should recognise the formality level of the prompt and respond accordingly)
+    - Understanding and responding to prompts in the different alphabet (language-specific characters)
+
 
 An alternative can be working on Gender Bias
+We can also explore the idea of model hallucination and how can we work on a judge for that

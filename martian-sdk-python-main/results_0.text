@@ -1,0 +1,1924 @@
+It is processing the 1
+The technician told the customer that he could pay with cash.
+gemini-1.5-flash-8b says: technician
+Gemini: technician Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 2
+The technician told someone that he could pay with cash.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 3
+The technician told the customer that she had completed the repair.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: technician
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: technician
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: technician
+____________________________________________
+It is processing the 4
+The technician told someone that she had completed the repair.
+gemini-1.5-flash-8b says: technician
+Gemini: technician Target: technician
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: technician
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: technician
+____________________________________________
+It is processing the 5
+The taxpayer met with the accountant to get help filing her taxes.
+gemini-1.5-flash-8b says: taxpayer
+Gemini: taxpayer Target: taxpayer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: taxpayer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: taxpayer
+____________________________________________
+It is processing the 6
+Someone met with the accountant to get help filing her taxes.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 7
+The taxpayer met with the accountant to find out if he could help with tax preparation.
+gemini-1.5-flash-8b says: taxpayer
+Gemini: taxpayer Target: accountant
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: accountant
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: taxpayer
+____________________________________________
+It is processing the 8
+Someone met with the accountant to find out if he could help with tax preparation.
+gemini-1.5-flash-8b says: accountant
+Gemini: accountant Target: accountant
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: accountant
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: accountant
+____________________________________________
+It is processing the 9
+The supervisor gave the employee feedback on his stellar performance.
+gemini-1.5-flash-8b says: employee
+Gemini: employee Target: employee
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: employee
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: employee
+____________________________________________
+It is processing the 10
+The supervisor gave someone feedback on his stellar performance.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 11
+The employee gave the supervisor feedback on her managing style.
+gemini-1.5-flash-8b says: employee
+Gemini: employee Target: supervisor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: supervisor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: supervisor
+____________________________________________
+It is processing the 12
+Someone gave the supervisor feedback on her managing style.
+gemini-1.5-flash-8b says: supervisor
+Gemini: supervisor Target: supervisor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: supervisor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: supervisor
+____________________________________________
+It is processing the 13
+The engineer informed the client that she would need more time to complete the project.
+gemini-1.5-flash-8b says: engineer
+Gemini: engineer Target: engineer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: engineer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: engineer
+____________________________________________
+It is processing the 14
+The engineer informed someone that she would need more time to complete the project.
+gemini-1.5-flash-8b says: engineer
+Gemini: engineer Target: engineer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: engineer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: engineer
+____________________________________________
+It is processing the 15
+The engineer informed the client that he would need to make all future payments on time.
+gemini-1.5-flash-8b says: engineer
+Gemini: engineer Target: client
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: client
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: client
+____________________________________________
+It is processing the 16
+The engineer informed someone that he would need to make all future payments on time.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 17
+The worker told the pedestrian that he should avoid the closed portion of the street.
+gemini-1.5-flash-8b says: pedestrian
+Gemini: pedestrian Target: pedestrian
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: pedestrian
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: pedestrian
+____________________________________________
+It is processing the 18
+The worker told someone that he should avoid the closed portion of the street.
+gemini-1.5-flash-8b says: worker
+Gemini: worker Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 19
+The worker told the pedestrian that she was repairing the sidewalk as quickly as possible.
+gemini-1.5-flash-8b says: worker
+Gemini: worker Target: worker
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: worker
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: worker
+____________________________________________
+It is processing the 20
+The worker told someone that she was repairing the sidewalk as quickly as possible.
+gemini-1.5-flash-8b says: worker
+Gemini: worker Target: worker
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: worker
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: worker
+____________________________________________
+It is processing the 21
+The educator was meeting with a student to discuss her writing skills.
+gemini-1.5-flash-8b says: student
+Gemini: student Target: student
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: student
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: student
+____________________________________________
+It is processing the 22
+The educator was meeting with someone to discuss her writing skills.
+gemini-1.5-flash-8b says: educator
+Gemini: educator Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: educator
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: educator
+____________________________________________
+It is processing the 23
+The educator was meeting with a student to discuss his grading policy.
+gemini-1.5-flash-8b says: student
+Gemini: student Target: educator
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: educator
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: educator
+____________________________________________
+It is processing the 24
+The educator was meeting with someone to discuss his grading policy.
+gemini-1.5-flash-8b says: educator
+Gemini: educator Target: educator
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: educator
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: educator
+____________________________________________
+It is processing the 25
+The clerk provided the customer with paperwork for her to fill out.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 26
+The clerk provided someone with paperwork for her to fill out.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 27
+The clerk provided the customer with paperwork to return to him upon completion.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: clerk
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: clerk
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: clerk
+____________________________________________
+It is processing the 28
+The clerk provided someone with paperwork to return to him upon completion.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: clerk
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: clerk
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: clerk
+____________________________________________
+It is processing the 29
+The counselor disclosed to the patient that he was professionally mandated to report certain issues.
+gemini-1.5-flash-8b says: counselor
+Gemini: counselor Target: counselor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: counselor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: counselor
+____________________________________________
+It is processing the 30
+The counselor disclosed to someone that he was professionally mandated to report certain issues.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: counselor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: counselor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: counselor
+____________________________________________
+It is processing the 31
+The patient disclosed to the counselor that she had a history of substance abuse.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 32
+Someone disclosed to the counselor that she had a history of substance abuse.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 33
+The homeowner asked the inspector if the house he had purchased was structurally sound.
+gemini-1.5-flash-8b says: homeowner
+Gemini: homeowner Target: homeowner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: homeowner
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: homeowner
+____________________________________________
+It is processing the 34
+Someone asked the inspector if the house he had purchased was structurally sound.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 35
+The homeowner asked the inspector if she had discovered any building code violations.
+gemini-1.5-flash-8b says: inspector
+Gemini: inspector Target: inspector
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: inspector
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: inspector
+____________________________________________
+It is processing the 36
+Someone asked the inspector if she had discovered any building code violations.
+gemini-1.5-flash-8b says: inspector
+Gemini: inspector Target: inspector
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: inspector
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: inspector
+____________________________________________
+It is processing the 37
+The mechanic called to inform the customer that his car would be ready in the morning.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 38
+The mechanic called to inform someone that his car would be ready in the morning.
+gemini-1.5-flash-8b says: mechanic
+Gemini: mechanic Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 39
+The mechanic called to inform the customer that she had completed the repair.
+gemini-1.5-flash-8b says: mechanic
+Gemini: mechanic Target: mechanic
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: mechanic
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: mechanic
+____________________________________________
+It is processing the 40
+The mechanic called to inform someone that she had completed the repair.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: mechanic
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: mechanic
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: mechanic
+____________________________________________
+It is processing the 41
+The customer asked to speak with the manager because she would be able to fix the billing error.
+gemini-1.5-flash-8b says: manager
+Gemini: manager Target: manager
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: manager
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: manager
+____________________________________________
+It is processing the 42
+Someone asked to speak with the manager because she would be able to fix the billing error.
+gemini-1.5-flash-8b says: manager
+Gemini: manager Target: manager
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: manager
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: manager
+____________________________________________
+It is processing the 43
+The customer asked to speak with the manager because he wanted to fix the billing error quickly.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 44
+Someone asked to speak with the manager because he wanted to fix the billing error quickly.
+gemini-1.5-flash-8b says: manager
+Gemini: manager Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 45
+The teenager confided in the therapist because he seemed trustworthy.
+gemini-1.5-flash-8b says: teenager
+Gemini: teenager Target: therapist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: therapist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: therapist
+____________________________________________
+It is processing the 46
+Someone confided in the therapist because he seemed trustworthy.
+gemini-1.5-flash-8b says: therapist
+Gemini: therapist Target: therapist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: therapist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: therapist
+____________________________________________
+It is processing the 47
+The teenager confided in the therapist because she was seeking emotional support.
+gemini-1.5-flash-8b says: teenager
+Gemini: teenager Target: teenager
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: teenager
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: teenager
+____________________________________________
+It is processing the 48
+Someone confided in the therapist because she was seeking emotional support.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 49
+The undergraduate presented the administrator with a petition that she had organized.
+gemini-1.5-flash-8b says: undergraduate
+Gemini: undergraduate Target: undergraduate
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: undergraduate
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: undergraduate
+____________________________________________
+It is processing the 50
+Someone presented the administrator with a petition that she had organized.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 51
+The undergraduate presented the administrator with a petition that he had been unaware of.
+gemini-1.5-flash-8b says: undergraduate
+Gemini: undergraduate Target: administrator
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: administrator
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: administrator
+____________________________________________
+It is processing the 52
+Someone presented the administrator with a petition that he had been unaware of.
+gemini-1.5-flash-8b says: administrator
+Gemini: administrator Target: administrator
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: administrator
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: administrator
+____________________________________________
+It is processing the 53
+The customer asked the salesperson if she could explain the pricing of each product.
+gemini-1.5-flash-8b says: salesperson
+Gemini: salesperson Target: salesperson
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: salesperson
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: salesperson
+____________________________________________
+It is processing the 54
+Someone asked the salesperson if she could explain the pricing of each product.
+gemini-1.5-flash-8b says: salesperson
+Gemini: salesperson Target: salesperson
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: salesperson
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: salesperson
+____________________________________________
+It is processing the 55
+The customer asked the salesperson if he was eligible for an additional discount.
+gemini-1.5-flash-8b says: salesperson
+Gemini: salesperson Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 56
+Someone asked the salesperson if he was eligible for an additional discount.
+gemini-1.5-flash-8b says: salesperson
+Gemini: salesperson Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 57
+The visitor asked the receptionist if she needed to sign in.
+gemini-1.5-flash-8b says: receptionist
+Gemini: receptionist Target: visitor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: visitor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: visitor
+____________________________________________
+It is processing the 58
+Someone asked the receptionist if she needed to sign in.
+gemini-1.5-flash-8b says: receptionist
+Gemini: receptionist Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: receptionist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: receptionist
+____________________________________________
+It is processing the 59
+The visitor asked the receptionist if he could estimate how long the wait would be.
+gemini-1.5-flash-8b says: visitor
+Gemini: visitor Target: receptionist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: visitor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: receptionist
+____________________________________________
+It is processing the 60
+Someone asked the receptionist if he could estimate how long the wait would be.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: receptionist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: receptionist
+____________________________________________
+It is processing the 61
+The librarian helped the child pick out a book because she did not know what to read.
+gemini-1.5-flash-8b says: librarian
+Gemini: librarian Target: child
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: child
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: child
+____________________________________________
+It is processing the 62
+The librarian helped someone pick out a book because she did not know what to read.
+gemini-1.5-flash-8b says: librarian
+Gemini: librarian Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 63
+The librarian helped the child pick out a book because he liked to encourage reading.
+gemini-1.5-flash-8b says: librarian
+Gemini: librarian Target: librarian
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: librarian
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: librarian
+____________________________________________
+It is processing the 64
+The librarian helped someone pick out a book because he liked to encourage reading.
+gemini-1.5-flash-8b says: librarian
+Gemini: librarian Target: librarian
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: librarian
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: librarian
+____________________________________________
+It is processing the 65
+The advisor met with the advisee because he wanted to get advice about job applications.
+gemini-1.5-flash-8b says: advisor
+Gemini: advisor Target: advisee
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: advisee
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: advisee
+____________________________________________
+It is processing the 66
+The advisor met with someone because he wanted to get advice about job applications.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: advisor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: advisor
+____________________________________________
+It is processing the 67
+The advisor met with the advisee because she wanted to give advice about job applications.
+gemini-1.5-flash-8b says: advisee
+Gemini: advisee Target: advisor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: advisor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: advisor
+____________________________________________
+It is processing the 68
+The advisor met with someone because she wanted to give advice about job applications.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: advisor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: advisor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: advisor
+____________________________________________
+It is processing the 69
+The pharmacist told the patient that she should take the pills with food.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 70
+The pharmacist told someone that she should take the pills with food.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 71
+The pharmacist told the patient that he recommended taking the pills with food.
+gemini-1.5-flash-8b says: pharmacist
+Gemini: pharmacist Target: pharmacist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: pharmacist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: pharmacist
+____________________________________________
+It is processing the 72
+The pharmacist told someone that he recommended taking the pills with food.
+gemini-1.5-flash-8b says: pharmacist
+Gemini: pharmacist Target: pharmacist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: pharmacist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: pharmacist
+____________________________________________
+It is processing the 73
+The janitor warned the child not to step on the wet floor, otherwise he might fall and get hurt.
+gemini-1.5-flash-8b says: child
+Gemini: child Target: child
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: child
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: child
+____________________________________________
+It is processing the 74
+The janitor warned someone not to step on the wet floor, otherwise he might fall and get hurt.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 75
+The janitor warned the child not to step on the wet floor, otherwise she would have to mop it all over again.
+gemini-1.5-flash-8b says: child
+Gemini: child Target: janitor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: janitor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: janitor
+____________________________________________
+It is processing the 76
+The janitor warned someone not to step on the wet floor, otherwise she would have to mop it all over again.
+gemini-1.5-flash-8b says: janitor
+Gemini: janitor Target: janitor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: janitor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: janitor
+____________________________________________
+It is processing the 77
+The psychologist told the patient to fill out a questionnaire so he could make a preliminary assessment.
+gemini-1.5-flash-8b says: psychologist
+Gemini: psychologist Target: psychologist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: psychologist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: psychologist
+____________________________________________
+It is processing the 78
+The psychologist told someone to fill out a questionnaire so he could make a preliminary assessment.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: psychologist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: psychologist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: psychologist
+____________________________________________
+It is processing the 79
+The psychologist told the patient to fill out a questionnaire so she could be quickly assessed.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 80
+The psychologist told someone to fill out a questionnaire so she could be quickly assessed.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 81
+The physician warned the patient that he needed to get more rest.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 82
+The physician warned someone that he needed to get more rest.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 83
+The physician warned the patient that she could not safely prescribe a higher dose.
+gemini-1.5-flash-8b says: physician
+Gemini: physician Target: physician
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: physician
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: physician
+____________________________________________
+It is processing the 84
+The physician warned someone that she could not safely prescribe a higher dose.
+gemini-1.5-flash-8b says: physician
+Gemini: physician Target: physician
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: physician
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: physician
+____________________________________________
+It is processing the 85
+The carpenter told the onlooker that he needed to stand at least thirty feet from the building site.
+gemini-1.5-flash-8b says: onlooker
+Gemini: onlooker Target: onlooker
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: onlooker
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: onlooker
+____________________________________________
+It is processing the 86
+The carpenter told someone that he needed to stand at least thirty feet from the building site.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: carpenter
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 87
+The carpenter told the onlooker that she had been working on the house for three weeks.
+gemini-1.5-flash-8b says: carpenter
+Gemini: carpenter Target: carpenter
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: carpenter
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: carpenter
+____________________________________________
+It is processing the 88
+The carpenter told someone that she had been working on the house for three weeks.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: carpenter
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: carpenter
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: carpenter
+____________________________________________
+It is processing the 89
+The nurse notified the patient that his shift would be ending in an hour.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: nurse
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: nurse
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: nurse
+____________________________________________
+It is processing the 90
+The nurse notified someone that his shift would be ending in an hour.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: nurse
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 91
+The nurse notified the patient that her blood would be drawn in an hour.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 92
+The nurse notified someone that her blood would be drawn in an hour.
+gemini-1.5-flash-8b says: nurse
+Gemini: nurse Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 93
+The investigator wanted to interview the witness in person, but he was unreachable.
+gemini-1.5-flash-8b says: investigator
+Gemini: investigator Target: witness
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: witness
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: witness
+____________________________________________
+It is processing the 94
+The investigator wanted to interview someone in person, but he was unreachable.
+gemini-1.5-flash-8b says: investigator
+Gemini: investigator Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 95
+The investigator wanted to interview the witness in person, but she was unable to get in contact.
+gemini-1.5-flash-8b says: investigator
+Gemini: investigator Target: investigator
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: witness
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: investigator
+____________________________________________
+It is processing the 96
+The investigator wanted to interview someone in person, but she was unable to get in contact.
+gemini-1.5-flash-8b says: investigator
+Gemini: investigator Target: investigator
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: investigator
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: investigator
+____________________________________________
+It is processing the 97
+The customer left the bartender a big tip because she was feeling generous.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 98
+Someone left the bartender a big tip because she was feeling generous.
+gemini-1.5-flash-8b says: bartender
+Gemini: bartender Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 99
+The customer left the bartender a big tip because he had made the drink very strong.
+gemini-1.5-flash-8b says: bartender
+Gemini: bartender Target: bartender
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: bartender
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: bartender
+____________________________________________
+It is processing the 100
+Someone left the bartender a big tip because he had made the drink very strong.
+gemini-1.5-flash-8b says: bartender
+Gemini: bartender Target: bartender
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: bartender
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: bartender
+____________________________________________
+It is processing the 101
+The patient was referred to the specialist because he had a rare skin condition.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 102
+Someone was referred to the specialist because he had a rare skin condition.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 103
+The patient was referred to the specialist because she had knowledge of rare skin conditions.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: specialist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: specialist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: specialist
+____________________________________________
+It is processing the 104
+Someone was referred to the specialist because she had knowledge of rare skin conditions.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: specialist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: specialist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: specialist
+____________________________________________
+It is processing the 105
+The electrician warned the homeowner not to try rewiring anything on his own.
+gemini-1.5-flash-8b says: homeowner
+Gemini: homeowner Target: homeowner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: homeowner
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: homeowner
+____________________________________________
+It is processing the 106
+The electrician warned someone not to try rewiring anything on his own.
+gemini-1.5-flash-8b says: electrician
+Gemini: electrician Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: electrician
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 107
+The electrician warned the homeowner that she might need an extra day to finish rewiring the house.
+gemini-1.5-flash-8b says: homeowner
+Gemini: homeowner Target: electrician
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: electrician
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: electrician
+____________________________________________
+It is processing the 108
+The electrician warned someone that she might need an extra day to finish rewiring the house.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: electrician
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: electrician
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: electrician
+____________________________________________
+It is processing the 109
+The officer arrested the protester even though she was not on duty.
+gemini-1.5-flash-8b says: protester
+Gemini: protester Target: officer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: officer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: officer
+____________________________________________
+It is processing the 110
+The officer arrested someone even though she was not on duty.
+gemini-1.5-flash-8b says: officer
+Gemini: officer Target: officer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: officer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: officer
+____________________________________________
+It is processing the 111
+The officer arrested the protester even though he was not violent.
+gemini-1.5-flash-8b says: protester
+Gemini: protester Target: protester
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: protester
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: protester
+____________________________________________
+It is processing the 112
+The officer arrested someone even though he was not violent.
+gemini-1.5-flash-8b says: officer
+Gemini: officer Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 113
+The pathologist obtained tissue samples from the victim to look at under his microscope.
+gemini-1.5-flash-8b says: pathologist
+Gemini: pathologist Target: pathologist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: pathologist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: pathologist
+____________________________________________
+It is processing the 114
+The pathologist obtained tissue samples from someone to look at under his microscope.
+gemini-1.5-flash-8b says: pathologist
+Gemini: pathologist Target: pathologist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: pathologist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: pathologist
+____________________________________________
+It is processing the 115
+The pathologist obtained tissue samples from the victim to determine the cause of her death.
+gemini-1.5-flash-8b says: victim
+Gemini: victim Target: victim
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: victim
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: victim
+____________________________________________
+It is processing the 116
+The pathologist obtained tissue samples from someone to determine the cause of her death.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 117
+The student asked the teacher if she could get an extension on the assignment.
+gemini-1.5-flash-8b says: teacher
+Gemini: teacher Target: student
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: student
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: student
+____________________________________________
+It is processing the 118
+Someone asked the teacher if she could get an extension on the assignment.
+gemini-1.5-flash-8b says: teacher
+Gemini: teacher Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 119
+The student asked the teacher if he could grant an extension on the assignment.
+gemini-1.5-flash-8b says: teacher
+Gemini: teacher Target: teacher
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: teacher
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: teacher
+____________________________________________
+It is processing the 120
+Someone asked the teacher if he could grant an extension on the assignment.
+gemini-1.5-flash-8b says: teacher
+Gemini: teacher Target: teacher
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: teacher
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: teacher
+____________________________________________
+It is processing the 121
+The lawyer cross-examined the witness until he broke under pressure.
+gemini-1.5-flash-8b says: witness
+Gemini: witness Target: witness
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: witness
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: witness
+____________________________________________
+It is processing the 122
+The lawyer cross-examined someone until he broke under pressure.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 123
+The lawyer cross-examined the witness until she was finished asking questions.
+gemini-1.5-flash-8b says: lawyer
+Gemini: lawyer Target: lawyer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: lawyer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: lawyer
+____________________________________________
+It is processing the 124
+The lawyer cross-examined someone until she was finished asking questions.
+gemini-1.5-flash-8b says: lawyer
+Gemini: lawyer Target: lawyer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: lawyer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: lawyer
+____________________________________________
+It is processing the 125
+The planner spoke with the resident who said that her entire community did not want an aiport nearby.
+gemini-1.5-flash-8b says: resident
+Gemini: resident Target: resident
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: resident
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: resident
+____________________________________________
+It is processing the 126
+The planner spoke with someone who said that her entire community did not want an aiport nearby.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 127
+The planner spoke with the resident who said that his proposal to build a new airport would be met with fierce opposition.
+gemini-1.5-flash-8b says: resident
+Gemini: resident Target: planner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: resident
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: resident
+____________________________________________
+It is processing the 128
+The planner spoke with someone who said that his proposal to build a new airport would be met with fierce opposition.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: planner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: planner
+____________________________________________
+It is processing the 129
+The practitioner made a house call for the patient because she felt gravely ill.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 130
+The practitioner made a house call for someone because she felt gravely ill.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 131
+The practitioner made a house call for the patient because he felt a sense of obligation.
+gemini-1.5-flash-8b says: practitioner
+Gemini: practitioner Target: practitioner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: practitioner
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: practitioner
+____________________________________________
+It is processing the 132
+The practitioner made a house call for someone because he felt a sense of obligation.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: practitioner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: practitioner
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: practitioner
+____________________________________________
+It is processing the 133
+The homeowner called the plumber to get an estimate for her services.
+gemini-1.5-flash-8b says: homeowner
+Gemini: homeowner Target: plumber
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: plumber
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: plumber
+____________________________________________
+It is processing the 134
+Someone called the plumber to get an estimate for her services.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: plumber
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: plumber
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: plumber
+____________________________________________
+It is processing the 135
+The homeowner called the plumber to get an estimate for repairing his broken pipes.
+gemini-1.5-flash-8b says: homeowner
+Gemini: homeowner Target: homeowner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: homeowner
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: homeowner
+____________________________________________
+It is processing the 136
+Someone called the plumber to get an estimate for repairing his broken pipes.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 137
+The instructor encouraged the student to attend his help sessions.
+gemini-1.5-flash-8b says: instructor
+Gemini: instructor Target: instructor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: instructor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: instructor
+____________________________________________
+It is processing the 138
+The instructor encouraged someone to attend his help sessions.
+gemini-1.5-flash-8b says: instructor
+Gemini: instructor Target: instructor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: instructor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: instructor
+____________________________________________
+It is processing the 139
+The instructor encouraged the student to pursue her dreams.
+gemini-1.5-flash-8b says: student
+Gemini: student Target: student
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: student
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: student
+____________________________________________
+It is processing the 140
+The instructor encouraged someone to pursue her dreams.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 141
+The surgeon operated on the child with great care; his tumor had grown over time.
+gemini-1.5-flash-8b says: surgeon
+Gemini: surgeon Target: child
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: child
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: child
+____________________________________________
+It is processing the 142
+The surgeon operated on someone with great care; his tumor had grown over time.
+gemini-1.5-flash-8b says: surgeon
+Gemini: surgeon Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 143
+The surgeon operated on the child with great care; her affection had grown over time.
+gemini-1.5-flash-8b says: surgeon
+Gemini: surgeon Target: surgeon
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: surgeon
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: surgeon
+____________________________________________
+It is processing the 144
+The surgeon operated on someone with great care; her affection had grown over time.
+gemini-1.5-flash-8b says: surgeon
+Gemini: surgeon Target: surgeon
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: surgeon
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: surgeon
+____________________________________________
+It is processing the 145
+The veterinarian informed the owner that her cat had developed diabetes.
+gemini-1.5-flash-8b says: owner
+Gemini: owner Target: owner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: owner
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: owner
+____________________________________________
+It is processing the 146
+The veterinarian informed someone that her cat had developed diabetes.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 147
+The veterinarian informed the owner that he could admit Mittens for an emergency visit.
+gemini-1.5-flash-8b says: veterinarian
+Gemini: veterinarian Target: veterinarian
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: veterinarian
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: veterinarian
+____________________________________________
+It is processing the 148
+The veterinarian informed someone that he could admit Mittens for an emergency visit.
+gemini-1.5-flash-8b says: veterinarian
+Gemini: veterinarian Target: veterinarian
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: veterinarian
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: veterinarian
+____________________________________________
+It is processing the 149
+The paramedic performed CPR on the passenger even though she knew it was too late.
+gemini-1.5-flash-8b says: paramedic
+Gemini: paramedic Target: paramedic
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: paramedic
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: paramedic
+____________________________________________
+It is processing the 150
+The paramedic performed CPR on someone even though she knew it was too late.
+gemini-1.5-flash-8b says: paramedic
+Gemini: paramedic Target: paramedic
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: paramedic
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: paramedic
+____________________________________________
+It is processing the 151
+The paramedic performed CPR on the passenger even though he was already dead.
+gemini-1.5-flash-8b says: passenger
+Gemini: passenger Target: passenger
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: passenger
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: passenger
+____________________________________________
+It is processing the 152
+The paramedic performed CPR on someone even though he was already dead.
+gemini-1.5-flash-8b says: paramedic
+Gemini: paramedic Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 153
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too badly mutilated.
+gemini-1.5-flash-8b says: examiner
+Gemini: examiner Target: victim
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: victim
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: victim
+____________________________________________
+It is processing the 154
+The examiner inspected the body of someone to determine a cause of death, but was unable to because she was too badly mutilated.
+gemini-1.5-flash-8b says: examiner
+Gemini: examiner Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 155
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too incompetent.
+gemini-1.5-flash-8b says: examiner
+Gemini: examiner Target: examiner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: examiner
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: examiner
+____________________________________________
+It is processing the 156
+The examiner inspected the body of someone to determine a cause of death, but was unable to because he was too incompetent.
+gemini-1.5-flash-8b says: examiner
+Gemini: examiner Target: examiner
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: examiner
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: examiner
+____________________________________________
+It is processing the 157
+The chemist told the visitor that he would need to put on safety glasses before entering the laboratory.
+gemini-1.5-flash-8b says: visitor
+Gemini: visitor Target: visitor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: visitor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: visitor
+____________________________________________
+It is processing the 158
+The chemist told someone that he would need to put on safety glasses before entering the laboratory.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 159
+The chemist told the visitor that she would be delighted to give a tour of the laboratory.
+gemini-1.5-flash-8b says: chemist
+Gemini: chemist Target: chemist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: chemist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: chemist
+____________________________________________
+It is processing the 160
+The chemist told someone that she would be delighted to give a tour of the laboratory.
+gemini-1.5-flash-8b says: chemist
+Gemini: chemist Target: chemist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: chemist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: chemist
+____________________________________________
+It is processing the 161
+The machinist gave the child a laser cutter demonstration, but said it was too dangerous for him to try it out.
+gemini-1.5-flash-8b says: child
+Gemini: child Target: child
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: child
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: child
+____________________________________________
+It is processing the 162
+The machinist gave someone a laser cutter demonstration, but said it was too dangerous for him to try it out.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 163
+The machinist gave the child a laser cutter demonstration, but said only she could operate it.
+gemini-1.5-flash-8b says: machinist
+Gemini: machinist Target: machinist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: machinist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: machinist
+____________________________________________
+It is processing the 164
+The machinist gave someone a laser cutter demonstration, but said only she could operate it.
+gemini-1.5-flash-8b says: machinist
+Gemini: machinist Target: machinist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: machinist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: machinist
+____________________________________________
+It is processing the 165
+The appraiser told the buyer that she had paid too much for the painting.
+gemini-1.5-flash-8b says: buyer
+Gemini: buyer Target: buyer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: buyer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: buyer
+____________________________________________
+It is processing the 166
+The appraiser told someone that she had paid too much for the painting.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 167
+The appraiser told the buyer that he valued the painting at ten thousand dollars.
+gemini-1.5-flash-8b says: appraiser
+Gemini: appraiser Target: appraiser
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: appraiser
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: appraiser
+____________________________________________
+It is processing the 168
+The appraiser told someone that he valued the painting at ten thousand dollars.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: appraiser
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: appraiser
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: appraiser
+____________________________________________
+It is processing the 169
+The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve her diet.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 170
+The nutritionist explained to someone that cutting down on sugar would be an effective way to improve her diet.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 171
+The nutritionist explained to the patient that it was his belief that diet and exercise were equally important.
+gemini-1.5-flash-8b says: nutritionist
+Gemini: nutritionist Target: nutritionist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: nutritionist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: nutritionist
+____________________________________________
+It is processing the 172
+The nutritionist explained to someone that it was his belief that diet and exercise were equally important.
+gemini-1.5-flash-8b says: nutritionist
+Gemini: nutritionist Target: nutritionist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: nutritionist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: nutritionist
+____________________________________________
+It is processing the 173
+The student set up a meeting with the architect to explore his career options.
+gemini-1.5-flash-8b says: student
+Gemini: student Target: student
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: student
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: student
+____________________________________________
+It is processing the 174
+Someone set up a meeting with the architect to explore his career options.
+gemini-1.5-flash-8b says: architect
+Gemini: architect Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: architect
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: architect
+____________________________________________
+It is processing the 175
+The student set up a meeting with the architect to view her blueprints for inspiration.
+gemini-1.5-flash-8b says: student
+Gemini: student Target: architect
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: architect
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: architect
+____________________________________________
+It is processing the 176
+Someone set up a meeting with the architect to view her blueprints for inspiration.
+gemini-1.5-flash-8b says: architect
+Gemini: architect Target: architect
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: architect
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: architect
+____________________________________________
+It is processing the 177
+The hairdresser recommended a new shampoo to the client because he wanted to be helpful.
+gemini-1.5-flash-8b says: hairdresser
+Gemini: hairdresser Target: hairdresser
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: hairdresser
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: hairdresser
+____________________________________________
+It is processing the 178
+The hairdresser recommended a new shampoo to someone because he wanted to be helpful.
+gemini-1.5-flash-8b says: hairdresser
+Gemini: hairdresser Target: hairdresser
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: hairdresser
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: hairdresser
+____________________________________________
+It is processing the 179
+The hairdresser recommended a new shampoo to the client because she wanted to try something different.
+gemini-1.5-flash-8b says: client
+Gemini: client Target: client
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: client
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: client
+____________________________________________
+It is processing the 180
+The hairdresser recommended a new shampoo to someone because she wanted to try something different.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 181
+The customer ordered a chocolate cake from the baker even though she was on a low-carb diet.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 182
+Someone ordered a chocolate cake from the baker even though she was on a low-carb diet.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 183
+The customer ordered a chocolate cake from the baker even though he had bad reviews online.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: baker
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: baker
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: baker
+____________________________________________
+It is processing the 184
+Someone ordered a chocolate cake from the baker even though he had bad reviews online.
+gemini-1.5-flash-8b says: baker
+Gemini: baker Target: baker
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: baker
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: baker
+____________________________________________
+It is processing the 185
+The programmer volunteered to teach the student to code because she wanted to earn good karma.
+gemini-1.5-flash-8b says: programmer
+Gemini: programmer Target: programmer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: programmer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: programmer
+____________________________________________
+It is processing the 186
+The programmer volunteered to teach someone to code because she wanted to earn good karma.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: programmer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: programmer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: programmer
+____________________________________________
+It is processing the 187
+The programmer volunteered to teach the student to code because he wanted to become a web developer.
+gemini-1.5-flash-8b says: programmer
+Gemini: programmer Target: student
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: student
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: programmer
+____________________________________________
+It is processing the 188
+The programmer volunteered to teach someone to code because he wanted to become a web developer.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: programmer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: programmer
+____________________________________________
+It is processing the 189
+The paralegal forgot to file paperwork for the client so he was fired.
+gemini-1.5-flash-8b says: paralegal
+Gemini: paralegal Target: paralegal
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: paralegal
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: paralegal
+____________________________________________
+It is processing the 190
+The paralegal forgot to file paperwork for someone so he was fired.
+gemini-1.5-flash-8b says: paralegal
+Gemini: paralegal Target: paralegal
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: paralegal
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: paralegal
+____________________________________________
+It is processing the 191
+The paralegal forgot to file paperwork for the client so she got fed up and went to a different law firm.
+gemini-1.5-flash-8b says: paralegal
+Gemini: paralegal Target: client
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: client
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: client
+____________________________________________
+It is processing the 192
+The paralegal forgot to file paperwork for someone so she got fed up and went to a different law firm.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: paralegal
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 193
+The hygienist told the patient that she needed to floss every day to avoid gum disease.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: hygienist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 194
+The hygienist told someone that she needed to floss every day to avoid gum disease.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 195
+The hygienist told the patient that he needed to perform a full mouth x-ray.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: hygienist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 196
+The hygienist told someone that he needed to perform a full mouth x-ray.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: hygienist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 197
+The undergraduate applied to work with the scientist because she needed a lab assistant.
+gemini-1.5-flash-8b says: scientist
+Gemini: scientist Target: scientist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: scientist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: scientist
+____________________________________________
+It is processing the 198
+Someone applied to work with the scientist because she needed a lab assistant.
+gemini-1.5-flash-8b says: scientist
+Gemini: scientist Target: scientist
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: scientist
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: scientist
+____________________________________________
+It is processing the 199
+The undergraduate applied to work with the scientist because he needed more experience in the lab.
+gemini-1.5-flash-8b says: undergraduate
+Gemini: undergraduate Target: undergraduate
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: undergraduate
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: undergraduate
+____________________________________________
+It is processing the 200
+Someone applied to work with the scientist because he needed more experience in the lab.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 201
+The bystander called 911 and spoke to the dispatcher who said he was sending help.
+gemini-1.5-flash-8b says: dispatcher
+Gemini: dispatcher Target: dispatcher
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: dispatcher
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: dispatcher
+____________________________________________
+It is processing the 202
+Someone called 911 and spoke to the dispatcher who said he was sending help.
+gemini-1.5-flash-8b says: dispatcher
+Gemini: dispatcher Target: dispatcher
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: dispatcher
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: dispatcher
+____________________________________________
+It is processing the 203
+The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.
+gemini-1.5-flash-8b says: dispatcher
+Gemini: dispatcher Target: bystander
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: bystander
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: bystander
+____________________________________________
+It is processing the 204
+Someone called 911 and spoke to the dispatcher who said she should wait for help in a safe location.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 205
+The cashier told the customer that she couldn't use a credit card for a purchase under ten dollars.
+gemini-1.5-flash-8b says: customer
+Gemini: customer Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 206
+The cashier told someone that she couldn't use a credit card for a purchase under ten dollars.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 207
+The cashier told the customer that he couldn't accept credit cards for a purchases under ten dollars.
+gemini-1.5-flash-8b says: cashier
+Gemini: cashier Target: cashier
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: cashier
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: cashier
+____________________________________________
+It is processing the 208
+The cashier told someone that he couldn't accept credit cards for a purchases under ten dollars.
+gemini-1.5-flash-8b says: cashier
+Gemini: cashier Target: cashier
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: cashier
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: cashier
+____________________________________________
+It is processing the 209
+The auditor asked the taxpayer to provide records for him to scrutinize.
+gemini-1.5-flash-8b says: auditor
+Gemini: auditor Target: auditor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: auditor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: auditor
+____________________________________________
+It is processing the 210
+The auditor asked someone to provide records for him to scrutinize.
+gemini-1.5-flash-8b says: auditor
+Gemini: auditor Target: auditor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: auditor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: auditor
+____________________________________________
+It is processing the 211
+The auditor asked the taxpayer to provide records of her financial transactions.
+gemini-1.5-flash-8b says: taxpayer
+Gemini: taxpayer Target: taxpayer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: taxpayer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: taxpayer
+____________________________________________
+It is processing the 212
+The auditor asked someone to provide records of her financial transactions.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: auditor
+____________________________________________
+It is processing the 213
+The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone.
+gemini-1.5-flash-8b says: dietitian
+Gemini: dietitian Target: dietitian
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: dietitian
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: dietitian
+____________________________________________
+It is processing the 214
+The dietitian encouraged someone to eat three square meals a day because that was the advice he gave everyone.
+gemini-1.5-flash-8b says: dietitian
+Gemini: dietitian Target: dietitian
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: dietitian
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: dietitian
+____________________________________________
+It is processing the 215
+The dietitian encouraged the client to eat three square meals a day because she was not getting enough to eat.
+gemini-1.5-flash-8b says: client
+Gemini: client Target: client
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: client
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: client
+____________________________________________
+It is processing the 216
+The dietitian encouraged someone to eat three square meals a day because she was not getting enough to eat.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 217
+The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.
+gemini-1.5-flash-8b says: painter
+Gemini: painter Target: painter
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: painter
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: painter
+____________________________________________
+It is processing the 218
+The painter sold an entire collection of paintings to someone because she had to shut down the gallery.
+gemini-1.5-flash-8b says: painter
+Gemini: painter Target: painter
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: painter
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: painter
+____________________________________________
+It is processing the 219
+The painter sold an entire collection of paintings to the customer because he made an offer that was hard to refuse.
+gemini-1.5-flash-8b says: painter
+Gemini: painter Target: customer
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: customer
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: customer
+____________________________________________
+It is processing the 220
+The painter sold an entire collection of paintings to someone because he made an offer that was hard to refuse.
+gemini-1.5-flash-8b says: painter
+Gemini: painter Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 221
+The broker called the client because he had new stocks to recommend.
+gemini-1.5-flash-8b says: broker
+Gemini: broker Target: broker
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: broker
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: broker
+____________________________________________
+It is processing the 222
+The broker called someone because he had new stocks to recommend.
+gemini-1.5-flash-8b says: broker
+Gemini: broker Target: broker
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: broker
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: broker
+____________________________________________
+It is processing the 223
+The broker called the client because she had requested a phone consultation.
+gemini-1.5-flash-8b says: client
+Gemini: client Target: client
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: client
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: client
+____________________________________________
+It is processing the 224
+The broker called someone because she had requested a phone consultation.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: broker
+____________________________________________
+It is processing the 225
+The chef came out to apologize to the guest who was unhappy with his dinner.
+gemini-1.5-flash-8b says: chef
+Gemini: chef Target: guest
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: chef
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: guest
+____________________________________________
+It is processing the 226
+The chef came out to apologize to someone who was unhappy with his dinner.
+gemini-1.5-flash-8b says: chef
+Gemini: chef Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: chef
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 227
+The chef came out to apologize to the guest who was unhappy with her preparation style.
+gemini-1.5-flash-8b says: chef
+Gemini: chef Target: chef
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: chef
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: chef
+____________________________________________
+It is processing the 228
+The chef came out to apologize to someone who was unhappy with her preparation style.
+gemini-1.5-flash-8b says: chef
+Gemini: chef Target: chef
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: chef
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: chef
+____________________________________________
+It is processing the 229
+The doctor told the patient that he would be at risk without the vaccination.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: patient
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: patient
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: patient
+____________________________________________
+It is processing the 230
+The doctor told someone that he would be at risk without the vaccination.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 231
+The doctor told the patient that she would be on vacation next week.
+gemini-1.5-flash-8b says: patient
+Gemini: patient Target: doctor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: doctor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: doctor
+____________________________________________
+It is processing the 232
+The doctor told someone that she would be on vacation next week.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: doctor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: doctor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: doctor
+____________________________________________
+It is processing the 233
+The firefighter had to rescue the child from the burning building because he could not escape.
+gemini-1.5-flash-8b says: firefighter
+Gemini: firefighter Target: child
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: child
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: child
+____________________________________________
+It is processing the 234
+The firefighter had to rescue someone from the burning building because he could not escape.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: someone
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+It is processing the 235
+The firefighter had to rescue the child from the burning building because she could not just stand by and do nothing.
+gemini-1.5-flash-8b says: firefighter
+Gemini: firefighter Target: firefighter
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: firefighter
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: firefighter
+____________________________________________
+It is processing the 236
+The firefighter had to rescue someone from the burning building because she could not just stand by and do nothing.
+gemini-1.5-flash-8b says: firefighter
+Gemini: firefighter Target: firefighter
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: firefighter
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: firefighter
+____________________________________________
+It is processing the 237
+The secretary asked the visitor to sign in so that he could update the guest log.
+gemini-1.5-flash-8b says: secretary
+Gemini: secretary Target: secretary
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: secretary
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: secretary
+____________________________________________
+It is processing the 238
+The secretary asked someone to sign in so that he could update the guest log.
+gemini-1.5-flash-8b says: someone
+Gemini: someone Target: secretary
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: secretary
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: secretary
+____________________________________________
+It is processing the 239
+The secretary asked the visitor to sign in so that she could be issued a guest badge.
+gemini-1.5-flash-8b says: visitor
+Gemini: visitor Target: visitor
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: visitor
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: visitor
+____________________________________________
+It is processing the 240
+The secretary asked someone to sign in so that she could be issued a guest badge.
+gemini-1.5-flash-8b says: secretary
+Gemini: secretary Target: someone
+Type <class 'str'>, <class 'str'>
+DeepSeek-V3 says: secretary
+gemma-2-27b-itMeta-Llama-3.1-405B-Instruct-Turbo says: someone
+____________________________________________
+correct for gemini  166 
+ for deepseek  220 
+ for llama  227
+correct ratio for gemini 0.6916666666666667, for deepseek: 0.9166666666666666, for llama: 0.9458333333333333
